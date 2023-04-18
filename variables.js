@@ -9,3 +9,11 @@ var birthYear = 1996;
 var isTuringStudent = true;
 var isMinnesotaResident = true;
 var isGoodAtCoding = false;
+
+javascript = "JavaScript is my favorite programming language.";
+ruby = "Ruby is a backend language.";
+coding = "I really enjoy coding!";
+
+console.log("What I think about JavaScript: ", javascript);
+console.log("I was born in: ", birthYear);
+console.log("I am a Turing student: ", isTuringStudent);
